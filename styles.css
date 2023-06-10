@@ -1,0 +1,23 @@
+
+p, span, a, h2 {
+  color: red;
+  font-size: 26px;
+}
+
+h1{
+  text-align: center;
+  background-color: greenyellow;
+  /* font-weight: bold; */
+  font-size: 50px;
+  text-decoration: line-through;
+}
+
+h3{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 100px;
+}
+
+span{
+  margin-right: 100px;
+}
