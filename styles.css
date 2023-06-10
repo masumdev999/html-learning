@@ -21,3 +21,10 @@ h3{
 span{
   margin-right: 100px;
 }
+
+#flowerImage{
+  opacity: .3;
+}
+.catImage{
+  opacity: .7;
+}
